@@ -63,7 +63,7 @@ docker run --rm -it movierec
 ```
 
 > [!TIP]
-> You can also use the pre-built image of my project published on Docker Hub:
+> You can also use the pre-built image of my project published on [Docker Hub](https://hub.docker.com/r/gabrielpy77/movie-rec-app):
 ```
 docker pull gabrielpy77/movie-rec-app:latest
 ```
